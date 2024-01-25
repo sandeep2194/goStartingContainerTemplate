@@ -1,7 +1,3 @@
-Sure, Sandy. Here's a concise README for your DevContainer setup:
-
----
-
 # LaSalle College Computer Programming DEC - Go Language DevContainer
 
 Welcome to the Go Language DevContainer, perfectly set up for the Computer Programming DEC course at LaSalle College. This container is fully equipped with all the necessary tools and configurations to jumpstart your Go programming journey.
@@ -23,8 +19,3 @@ Welcome to the Go Language DevContainer, perfectly set up for the Computer Progr
 - **Go Environment**: Pre-installed Go language support.
 - **Integrated Tools**: Essential tools like Git, debuggers, and linters.
 - **Consistent Workflow**: Same development environment for every student.
-
-
----
-
-Feel free to modify or add any specific details related to your course or container setup.
